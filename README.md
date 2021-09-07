@@ -1,5 +1,5 @@
 # DLRB (Dolar Blue)
-Un simple programa para obtener el valor del dólar blue y el oficial de Argentina de la página [dolar.blu](https://www.dolar.blue)
+Un simple programa para obtener el valor del dólar blue y el oficial de Argentina de la página [dolar.blue](https://www.dolar.blue)
 
 ### Ejemplo
 ```
