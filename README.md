@@ -12,3 +12,6 @@ $ python dlrb
   +---------------------------+
 
 ```
+### Bibliotecas usadas
+[BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/)
+[Requests](https://docs.python-requests.org/en/master/)
